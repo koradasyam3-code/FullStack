@@ -6,7 +6,7 @@ public class Sub {
     	int a=50;
     	int b=7;
     	int c=a-b;
-    	//good
+    	//parakesh is good  and best friend
     	System.out.println(c);
     }public static void main(String[] args) {
 		Sub d=new Sub();
