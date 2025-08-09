@@ -5,6 +5,7 @@ public class Sub {
     	int a=50;
     	int b=78;
     	int c=a-b;
+    	//parakesh is good  and best friend
     	System.out.println(c);
     }
     public void m3() {
@@ -16,6 +17,7 @@ public class Sub {
     public void mm4() {
     	
     }
+    //syam had a LOVER
     
     
     public static void main(String[] args) {
