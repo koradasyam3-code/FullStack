@@ -9,7 +9,7 @@ public class Sub {
     }
     public void m3() {
     	System.out.println("its a normal method");
-    }
+    } 
     //syam
     
     
