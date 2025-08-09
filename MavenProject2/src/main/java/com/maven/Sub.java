@@ -8,9 +8,10 @@ public class Sub {
     	System.out.println(c);
     }
     public void m3() {
+    	//commment line is
     	System.out.println("its a normal method");
     } 
-    //syam
+    //syam 
     
     
     public static void main(String[] args) {
