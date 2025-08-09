@@ -1,8 +1,7 @@
 package com.maven;
 
 public class Sub {
-    public void su()
-    {
+    public void su(){
     	int a=50;
     	int b=78;
     	int c=a-b;
